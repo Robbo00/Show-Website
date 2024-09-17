@@ -7,6 +7,10 @@ h1{
     font-family: "Cookie", cursive;
     font-weight: 400;
     font-style: normal;
+    font-family: "Pacifico", cursive;
 }
 hr    {height: 15px; background-color: #FA8072; border-radius: 15px}
-@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+.sub {
+    font-family: "Asap Condensed", sans-serif;
+    font-weight:500;
+}
